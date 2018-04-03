@@ -1,0 +1,41 @@
+.subjectHeader {
+  color: #6B7A8F;
+  font-family: sans-serif;
+  font-size: 30pt;
+}
+
+table {
+  border: 2px solid #6B7A8F;
+  text-align:center;
+  padding: 10px;
+  background-color: #DCC7AA;
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid #6B7A8F;
+  padding: 5px;
+}
+
+th {
+  border: 2px solid #6B7A8F;
+  font-weight: bold;
+  font-size: 14pt;
+  background-color: #F7C331;
+  padding: 5px;
+}
+
+ul {
+  list-style: square;
+}
+
+.hyperLink:hover{
+  text-decoration: none;
+  color: #F7882F;
+}
+
+blockquote {
+  color: #F7C331;
+  background-color: #6B7A8F;
+  padding: 10px;
+}
