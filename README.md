@@ -17,6 +17,11 @@
 * The page will use tables.
 * The page will use unordered lists, ordered lists and nested lists.
 * The page will use forms with various different selection types.
+* The stylesheet will change font sizes, styles, colors and families of many different elements.
+* The blockquote will get custom styling.
+* The stylesheet will style the table with alternating backgrounds, a unique header element, and a border.
+* The stylesheet will make a the team logo of each team appear as a light background image behind their roster, and their head qb will receive custom font styling.
+* The form will not have any markings for the unordered list inside the checkbox list.
 
 ## Support and Contact Details
 

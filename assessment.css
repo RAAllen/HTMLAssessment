@@ -61,6 +61,7 @@ blockquote {
 
 #checkbox-grid {
   list-style: none;
+  color: #F7882F;
 }
 
 img {
@@ -102,7 +103,7 @@ caption {
 [type="submit"] {
   padding: 10px;
   margin: 10px;
-  background-color: #F7882F;
+  background-color: #F7C331;
   font-size: 16pt;
   border-radius: 5px;
   margin-bottom: 25px;
@@ -110,4 +111,35 @@ caption {
 
 input {
   margin: 5px;
+}
+
+strong {
+  font-size: 16pt;
+  color: #6B7A8F;
+}
+
+blockquote > em > strong {
+  color: #F7882F;
+}
+
+form {
+  color: #6B7A8F;
+}
+
+form > label {
+  color: #F7882F;
+}
+
+select#favSport {
+  color: #F7882F;
+  font-size: 12pt;
+}
+
+[name="fname"] {
+  background-color: #DCC7AA;
+
+}
+
+[name="lname"] {
+  background-color: #DCC7AA;
 }
