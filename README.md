@@ -1,6 +1,6 @@
 # HTML Assessment
 
-### A simple html page.
+### A simple html page styled with css.
 
 #### By _**Rebecca Allen**_
 
