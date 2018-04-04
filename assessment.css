@@ -137,9 +137,11 @@ select#favSport {
 
 [name="fname"] {
   background-color: #DCC7AA;
+  border-radius: 5px;
 
 }
 
 [name="lname"] {
   background-color: #DCC7AA;
+  border-radius: 5px;
 }
