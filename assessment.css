@@ -71,13 +71,13 @@ img {
 ul#teamRoster > li:nth-child(1) {
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: linear-gradient(to bottom, rgba(255,255,255,0.6) 0%,rgba(255,255,255,0.6) 20%), url("https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg");
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0.6) 0%,rgba(255,255,255,0.6) 100%), url("https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg");
 }
 
 ul#teamRoster > li:nth-child(2) {
   background-size: contain;
   background-repeat: no-repeat;
-  background-image: linear-gradient(to bottom, rgba(255,255,255,0.6) 0%,rgba(255,255,255,0.6) 20%), url("https://upload.wikimedia.org/wikipedia/commons/5/5c/Chicago_Bears_logo.svg");
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0.6) 0%,rgba(255,255,255,0.6) 100%), url("https://upload.wikimedia.org/wikipedia/commons/5/5c/Chicago_Bears_logo.svg");
 }
 
 ul#teamRoster > li > ul > li > ol > li:nth-child(1) {
@@ -144,4 +144,8 @@ select#favSport {
 [name="lname"] {
   background-color: #DCC7AA;
   border-radius: 5px;
+}
+
+ul#teamRoster > li > ul > li {
+  list-style: square;
 }
